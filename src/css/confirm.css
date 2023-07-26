@@ -1,0 +1,11 @@
+#conf_main {
+  display: grid;
+  grid-template-rows: 1fr;
+  height: 35vw;
+  justify-content: center;
+  align-items: center;
+  font-family: "Mezaraki";
+  font-size: 2vw;
+  background-color: #3d4a40;
+  color: #f4ce14;
+}
